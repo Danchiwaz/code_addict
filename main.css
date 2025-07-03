@@ -3,4 +3,10 @@
     color: blue;
     font-size: 120px;
     border: 1px solid black;
+} 
+h1{
+    color: cyan;
+    font-size: large;
+    border: 10px;
+    font-weight: bolder ;
 }
